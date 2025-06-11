@@ -5,7 +5,7 @@ const fs = require('fs');
 const fsPromises = require('fs').promises;
 const path = require('path');
 
-const PORT = process.env.PORT || 4000;
+const PORT = 4000;
 
 const app = express();
 app.use(cors({origin: '*'}));
