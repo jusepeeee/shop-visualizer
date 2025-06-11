@@ -1,0 +1,12 @@
+{
+  "name": "shop-visualizer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node express.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.0"
+  }
+}

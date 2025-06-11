@@ -1,0 +1,12 @@
+.input-size{
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+.selected{
+    background-color: rgb(255, 216, 20);
+    border: solid 1px rgb(255, 216, 20);
+    color: white;
+}

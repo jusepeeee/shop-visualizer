@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+header{
+    height: 50px;
+    border-bottom: solid 1px #aaa;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+header h3{
+    margin-right: 20px;
+}
+
+#container{
+    display: flex;
+}

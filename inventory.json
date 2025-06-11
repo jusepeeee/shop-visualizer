@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "description": "100% cotton, regular fit",
+    "category": "T-Shirt",
+    "price": 19.99,
+    "size": ["S", "M", "L", "XL"],
+    "color": "white",
+    "inStock": [
+      {
+      "S": 20,
+      "M": 5,
+      "L": 10,
+      "XL": 2
+      }
+    ],
+    "image": "https://www.trueclassictees.com/cdn/shop/files/4000_WHITE_21.jpg?v=1741885405&width=710"
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Light Blue Jeans",
+    "description": "Jeans color light blue slim fit",
+    "category": "Jeans",
+    "price": 49.99,
+    "size": ["S", "M", "L"],
+    "color": "lightblue",
+    "inStock": [
+      {
+      "S": 5,
+      "M": 2,
+      "L": 8
+      }
+    ],
+    "image": "https://americantall.com/cdn/shop/products/American-Tall-Men-Mens-Dylan-Slim-Fit-Jeans-Retro-Blue-front_600x.jpg?v=1665604879"
+  },
+  {
+    "id": 3,
+    "name": "Slim fit Blue Jeans",
+    "description": "Jeans color blue slim fit",
+    "category": "Jeans",
+    "price": 129.99,
+    "size": ["M", "L", "XL"],
+    "color": "blue",
+    "inStock": [
+      {
+      "M": 5,
+      "L": 10,
+      "XL": 2
+      }
+    ],
+    "image": "https://www.kennethcole.com/cdn/shop/products/9b68dlry30_downing_1_800x.jpg?v=1635378580"
+  },
+  {
+    "id": 4,
+    "name": "Skinny fit Blue jeans",
+    "description": "Jeans color blue skinny fit",
+    "category": "Jeans",
+    "price": 59.99,
+    "size": ["L", "XL"],
+    "color": "darkblue",
+    "inStock": [
+      {
+        "L": 1,
+        "XL": 4
+      }
+    ],
+    "image": "https://m.media-amazon.com/images/I/71ewYmIQCcL._AC_SX425_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cornell T-shirt",
+    "description": "White T-shirt with Cornell University logo",
+    "category": "T-Shirt",
+    "price": 39.99,
+    "size": ["XS", "S", "M", "L"],
+    "color": "white",
+    "inStock": [
+      {
+      "XS": 5,
+      "S": 3,
+      "M": 5,
+      "L": 2
+      }
+    ],
+    "image": "https://www.ivysport.com/cdn/shop/files/43Z_B_1.jpg?v=1747645433"
+  },
+  {
+    "id": 6,
+    "name": "Leather Jacket",
+    "description": "Leather Jacket regular fit",
+    "category": "Jacket",
+    "price": 139.99,
+    "size": ["M", "L"],
+    "color": "black",
+    "inStock": [
+      {
+      "M": 5,
+      "L": 4
+      }
+    ],
+    "image": "https://media.i.allsaints.com/image/list/fn_select:jq:first%28.%5B%5D%7Cif%20has%28%22metadata%22%29%20then%20select%28any%28.metadata%5B%5D%3B%20.external_id%20%3D%3D%20%22sfcc-gallery-position%22%20and%20.value%20%3D%3D%201%29%29%20else%20empty%20end%29/f_auto,q_auto,dpr_auto,w_480,h_600,c_fit/M018LB-839.json?_i=AG"
+  }
+]
